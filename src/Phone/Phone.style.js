@@ -16,20 +16,21 @@ export const PhoneBox = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  padding: 20px 0px;
   box-sizing: border-box;
   align-items: center;
-  gap: 20px;
+  padding: 5px;
 `;
 export const Line = styled.div`
   width: 40%;
   height: 15px;
   background-color: #2a2f3d;
+  margin-top: 10px;
 `;
 export const PhoneScreen = styled.div`
   width: 85%;
   height: 80%;
   background-color: #2a2f3d;
+  margin: 10px;
 `;
 export const Round = styled.div`
   width: 60px;
@@ -52,7 +53,7 @@ export const Header = styled.div`
 
 export const Main = styled.div`
   width: 100%;
-  height: 225px;
+  height: 250px;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -61,6 +61,10 @@ const Phone = () => {
             <Box>
               <img src={mustang} alt="mustang" />
             </Box>
+
+            <Text color="white" size={30}>
+              made by alex
+            </Text>
           </Main>
         </PhoneScreen>
         <Round></Round>
