@@ -1,4 +1,4 @@
-import { Burger, Grid, Text } from "@mantine/core";
+import { Burger, Text } from "@mantine/core";
 import React, { useState } from "react";
 import {
   Box,
