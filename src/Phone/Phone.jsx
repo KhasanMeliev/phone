@@ -40,7 +40,6 @@ const Phone = () => {
           <Main>
             <h1>Website</h1>
             <p>This website about cars.</p>
-
             <Box>
               <img src={bugatti} alt="bugatti" />
             </Box>
